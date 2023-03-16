@@ -1,0 +1,41 @@
+body {
+  background-color: lightgrey;
+}
+
+h1 {
+  font-size: 180%;
+  font-family: "sans-serif;";
+  letter-spacing: 10px;
+  text-transform: none;
+  text-align: center;
+  transform: none;
+  color: maroon;
+  text-shadow: 2px 2px grey;
+}
+
+h2, h3, h4 {
+  color: maroon;
+  opacity: 70%;
+}
+
+a { 
+  color: black; 
+}
+
+img {
+  max-width: 50%;
+  max-height: 50%;
+  margin: auto;
+}
+
+iframe {
+  display: block;
+  margin: auto;
+  width: 560px;
+  height: 315px;
+}
+
+input {
+  border: 2px solid grey;
+  border-radius: 4px;
+}
